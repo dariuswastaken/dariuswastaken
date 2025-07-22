@@ -11,6 +11,6 @@ I'm a Backend Developer who is specialized in Discord Bots but can also build sc
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-2.0.0-blue.svg?style=flat&logo=hono&logoColor=white)
+[![Hono](https://img.shields.io/badge/Hono-2.0.0-blue.svg?style=flat&logo=hono&logoColor=white)](https://img.shields.io/badge/Hono-3.1.0-green.svg?style=for-the-badge&logo=hono&logoColor=white)
 
 📫 Reach me on Discord: dariusss7
