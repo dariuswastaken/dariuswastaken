@@ -32,3 +32,7 @@ I'm a Backend Developer who is specialized in discord-facing applications but ca
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-293444?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-DF8919?style=for-the-badge&logo=grafana&logoColor=white)
+
+🛠️ Utilities & Libraries
+
+![Zod](https://img.shields.io/badge/Zod-333333?style=for-the-badge&logo=zod&logoColor=white)
