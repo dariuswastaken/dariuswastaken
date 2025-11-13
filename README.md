@@ -31,6 +31,7 @@ I'm a Backend Developer who is specialized in discord-facing applications but ca
 ![Grafana](https://img.shields.io/badge/Grafana-DF8919?style=for-the-badge&logo=grafana&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-090C10?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 ![Dozzle](https://img.shields.io/badge/Dozzle-161618?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=white)
 
 🛠️ Utilities & Libraries
 
