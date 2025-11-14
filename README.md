@@ -19,6 +19,7 @@ I'm a Backend Developer who is specialized in discord-facing applications but ca
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
+![DragonflyDB](https://img.shields.io/badge/DragonflyDB-05040C?style=for-the-badge&logoColor=white)
 
 🌐 WEB FRAMEWORKS
 
