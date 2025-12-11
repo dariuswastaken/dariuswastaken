@@ -22,6 +22,8 @@ DATABASES
 ![FerretDB](https://img.shields.io/badge/FerretDB-FFCF2D?style=for-the-badge&logo=ferretdb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-05040C?style=for-the-badge&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-2D2471?style=for-the-badge&logo=valkey&logoColor=white)
+
 
 WEB FRAMEWORKS
 
