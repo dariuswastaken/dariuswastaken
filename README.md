@@ -1,7 +1,5 @@
 # Hi there, my name is Darius
 
-I'm a Backend Developer who is specialized in discord-facing applications but can also build scalable server-side projects.
-
 ## TECH STACK
 
 LANGUAGES
